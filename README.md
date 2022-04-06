@@ -1,3 +1,3 @@
 # thingy
 Scripts for Backrooms inspired VR game
-Written in C#
+Written in C# for Unity
